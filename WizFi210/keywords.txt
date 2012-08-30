@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For WizFi2x0
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SPIChar                       	KEYWORD1
+WizFi2x0Class			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	        		KEYWORD2
+setup                          	KEYWORD2
+write                           KEYWORD2
+read                           	KEYWORD2
+ByteStuff                 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+WizFi2x0_RST			LITERAL1
+WizFi2x0_DataReady		LITERAL2
+WizFi2x0_CS			LITERAL3
+
